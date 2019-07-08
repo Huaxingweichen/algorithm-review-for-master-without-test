@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug"/>
+				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug"/>
+				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug"/>
+				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm-review-for-master-without-test-master">
-				<Option output="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/algorithm-review-for-master-without-test-master" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug"/>
+				<Option output="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/algorithm-review-for-master-without-test-master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm-review-for-master-without-test-master"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm-review-for-master-without-test-master"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm-review-for-master-without-test-master/fast">
-				<Option output="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/algorithm-review-for-master-without-test-master" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug"/>
+				<Option output="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/algorithm-review-for-master-without-test-master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm-review-for-master-without-test-master/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm-review-for-master-without-test-master/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/排序.cpp">
+		<Unit filename="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/线索二叉树.cpp">
 			<Option target="algorithm-review-for-master-without-test-master"/>
 		</Unit>
-		<Unit filename="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/CMakeLists.txt">
+		<Unit filename="/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

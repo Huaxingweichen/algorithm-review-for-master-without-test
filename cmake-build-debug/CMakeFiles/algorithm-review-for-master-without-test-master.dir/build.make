@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master
+CMAKE_SOURCE_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/algorithm-review-for-master-without-test-master.dir/depend.make
@@ -57,30 +57,30 @@ include CMakeFiles/algorithm-review-for-master-without-test-master.dir/progress.
 # Include the compile flags for this target's objects.
 include CMakeFiles/algorithm-review-for-master-without-test-master.dir/flags.make
 
-CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o: CMakeFiles/algorithm-review-for-master-without-test-master.dir/flags.make
-CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o: ../排序.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o -c /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/排序.cpp
+CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o: CMakeFiles/algorithm-review-for-master-without-test-master.dir/flags.make
+CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o: ../线索二叉树.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o -c /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/线索二叉树.cpp
 
-CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/排序.cpp > CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.i
+CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/线索二叉树.cpp > CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.i
 
-CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/排序.cpp -o CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.s
+CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/线索二叉树.cpp -o CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.s
 
 # Object files for target algorithm-review-for-master-without-test-master
 algorithm__review__for__master__without__test__master_OBJECTS = \
-"CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o"
+"CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o"
 
 # External object files for target algorithm-review-for-master-without-test-master
 algorithm__review__for__master__without__test__master_EXTERNAL_OBJECTS =
 
-algorithm-review-for-master-without-test-master: CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o
+algorithm-review-for-master-without-test-master: CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o
 algorithm-review-for-master-without-test-master: CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make
 algorithm-review-for-master-without-test-master: CMakeFiles/algorithm-review-for-master-without-test-master.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable algorithm-review-for-master-without-test-master"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable algorithm-review-for-master-without-test-master"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm-review-for-master-without-test-master.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/algorithm-review-for-master-without-test-master.dir/clean:
 .PHONY : CMakeFiles/algorithm-review-for-master-without-test-master.dir/clean
 
 CMakeFiles/algorithm-review-for-master-without-test-master.dir/depend:
-	cd /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/CMakeFiles/algorithm-review-for-master-without-test-master.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/CMakeFiles/algorithm-review-for-master-without-test-master.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/algorithm-review-for-master-without-test-master.dir/depend
 

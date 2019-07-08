@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o"
+  "CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o"
   "algorithm-review-for-master-without-test-master.pdb"
   "algorithm-review-for-master-without-test-master"
 )

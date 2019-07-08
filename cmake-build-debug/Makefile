@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master
+CMAKE_SOURCE_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/CMakeFiles /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/CMakeFiles /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test-master/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/huanghao/CLionProjects/algorithm-review-for-master-without-test/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ algorithm-review-for-master-without-test-master/fast:
 	$(MAKE) -f CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make CMakeFiles/algorithm-review-for-master-without-test-master.dir/build
 .PHONY : algorithm-review-for-master-without-test-master/fast
 
-排序.o: 排序.cpp.o
+线索二叉树.o: 线索二叉树.cpp.o
 
-.PHONY : 排序.o
+.PHONY : 线索二叉树.o
 
 # target to build an object file
-排序.cpp.o:
-	$(MAKE) -f CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.o
-.PHONY : 排序.cpp.o
+线索二叉树.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.o
+.PHONY : 线索二叉树.cpp.o
 
-排序.i: 排序.cpp.i
+线索二叉树.i: 线索二叉树.cpp.i
 
-.PHONY : 排序.i
+.PHONY : 线索二叉树.i
 
 # target to preprocess a source file
-排序.cpp.i:
-	$(MAKE) -f CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.i
-.PHONY : 排序.cpp.i
+线索二叉树.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.i
+.PHONY : 线索二叉树.cpp.i
 
-排序.s: 排序.cpp.s
+线索二叉树.s: 线索二叉树.cpp.s
 
-.PHONY : 排序.s
+.PHONY : 线索二叉树.s
 
 # target to generate assembly for a file
-排序.cpp.s:
-	$(MAKE) -f CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make CMakeFiles/algorithm-review-for-master-without-test-master.dir/排序.cpp.s
-.PHONY : 排序.cpp.s
+线索二叉树.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithm-review-for-master-without-test-master.dir/build.make CMakeFiles/algorithm-review-for-master-without-test-master.dir/线索二叉树.cpp.s
+.PHONY : 线索二叉树.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... algorithm-review-for-master-without-test-master"
-	@echo "... 排序.o"
-	@echo "... 排序.i"
-	@echo "... 排序.s"
+	@echo "... 线索二叉树.o"
+	@echo "... 线索二叉树.i"
+	@echo "... 线索二叉树.s"
 .PHONY : help
 
 

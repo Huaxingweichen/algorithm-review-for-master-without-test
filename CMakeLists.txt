@@ -3,4 +3,4 @@ project(algorithm-review-for-master-without-test-master)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorithm-review-for-master-without-test-master 排序.cpp)
+add_executable(algorithm-review-for-master-without-test-master 线索二叉树.cpp)
